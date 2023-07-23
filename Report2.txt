@@ -1,0 +1,11 @@
+The WannaCry ransomware attack:
+
+1. The attack began on May 12, 2017, when the WannaCry ransomware was unleashed and started infecting computers globally. The initial targets included businesses, healthcare organizations, and government institutions. WannaCry is a type of ransomware that encrypts files on the infected computer, making them inaccessible to the user. It then displays a ransom note demanding payment. Failure to pay the ransom within a specified time would result in the permanent loss of data. 
+
+2. Following the outbreak of the attack, Microsoft released an emergency security patch (MS17-010) to address the vulnerability and urged users to install the update immediately. Additionally, security researchers and organizations worked to understand the ransomware's code and discovered the "kill switch" mechanism, which provided some relief in slowing down the spread of WannaCry. However, the attack highlighted the importance of timely software updates and reinforced the need for robust cybersecurity practices to defend against such threats.
+
+3. WannaCry exploited a known vulnerability in Microsoft Windows operating systems called "EternalBlue." This vulnerability was a part of the leaked NSA hacking tools released by a group called Shadow Brokers. EternalBlue allowed the ransomware to spread rapidly across networks without requiring any user interaction. Despite the massive scale of the attack, the actual ransom payments made to the attackers were relatively small. It is unclear who was behind the attack, but security researchers and government agencies attributed it to North Korea. 
+
+4. The WannaCry attack highlighted the importance of promptly patching known vulnerabilities, maintaining up-to-date software, and having robust cybersecurity measures in place. It also sparked discussions about the impact of nation-state cyber operations on civilian infrastructure. In the aftermath of the attack, governments and organizations around the world increased their efforts to bolster cybersecurity defenses and improve coordination to mitigate the risk of similar large-scale attacks in the future.
+
+Source: https://www.techtarget.com/searchsecurity/definition/WannaCry-ransomware?Offer=abt_pubpro_AI-Insider 

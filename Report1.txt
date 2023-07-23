@@ -1,0 +1,11 @@
+2016 Election:
+
+1. The attack involved a phishing campaign, where malicious actors sent spear-phishing emails to target individuals with the intent of tricking them into revealing their login credentials or clicking on malicious links.
+
+2. In April 2016, the DNC became aware of suspicious activity on its network and hired a cybersecurity firm called CrowdStrike to investigate the potential breach. CrowdStrike discovered the sophisticated hacking operation and attributed it to two Russian state-sponsored groups, known as Fancy Bear (APT28) and Cozy Bear (APT29). Starting in July 2016, WikiLeaks began publishing the leaked DNC emails, leading to widespread media coverage and public attention. The leaked emails included sensitive and potentially damaging information related to the DNC and some of its key figures.
+
+3. Through this method, hackers gained unauthorized access to the DNC's email servers and subsequently leaked sensitive and confidential emails.
+
+4. Yes, there were security measures that could have been implemented to potentially prevent or mitigate the cyber-attack on the 2016 election. Stronger email security, such as multi-factor authentication (MFA) and email encryption, could have made it more difficult for attackers to gain unauthorized access to email accounts through phishing attempts. Employee training and awareness could have helped them recognize and avoid falling victim to phishing emails or other social engineering techniques. Regular security audits would have helped identify and address weaknesses in the DNC's network and infrastructure. Better collaboration between political organizations and government agencies could have helped raise awareness of potential threats and foster a more proactive approach to cybersecurity in the context of elections.
+
+Source: https://www.cnn.com/2016/12/26/us/2016-presidential-campaign-hacking-fast-facts/index.html 
